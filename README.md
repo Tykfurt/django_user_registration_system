@@ -20,14 +20,20 @@ Python
 Django
 SQLite (default Django database)
 HTML
+
+
 Project Structure
 register/
 │
 ├── register/        # Project configuration (settings, urls)
+
 ├── nombre_app/      # Main app (models, views, forms)
-    ├── templates/       # HTML templates
+
+    └── templates/       # HTML templates
+    
 ├── db.sqlite3       # Database
 └── manage.py
+
 
 ##Installation & Setup
 
