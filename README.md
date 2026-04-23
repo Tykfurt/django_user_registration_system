@@ -23,8 +23,9 @@ HTML
 
 
 Project Structure
+
 register/
-│
+
 ├── register/        # Project configuration (settings, urls)
 
 ├── nombre_app/      # Main app (models, views, forms)
@@ -32,6 +33,7 @@ register/
     └── templates/       # HTML templates
     
 ├── db.sqlite3       # Database
+
 └── manage.py
 
 
